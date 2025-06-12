@@ -1,2 +1,1 @@
-# Version B
-git demo
+Nội dung trong nhánh conflict-branch-b

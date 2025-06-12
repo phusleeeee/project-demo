@@ -1,3 +1,1 @@
-# Version A
-git demo
-hé lo my name isssssssss
+Nội dung trong nhánh conflict-branch-b
